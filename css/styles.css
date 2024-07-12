@@ -219,7 +219,7 @@ a {
   gap: 24px;
 }
 
-.submain-list-item.submain-section-icon {
+.submain-section-icon {
   display: flex;
   align-items: center;
   justify-content: center;
