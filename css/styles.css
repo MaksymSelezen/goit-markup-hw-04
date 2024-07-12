@@ -140,6 +140,8 @@ a {
 
 .main-section {
   background-color: #2e2f42;
+  width: 1440px;
+  margin: 0 auto;
   padding-top: 188px;
   padding-bottom: 188px;
   background-image: linear-gradient(
@@ -148,6 +150,8 @@ a {
       rgba(46, 47, 66, 0.7)
     ),
     url(/images/hero\ image-min.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
 }
 
