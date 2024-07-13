@@ -427,7 +427,7 @@ a {
   color: #434455;
 }
 
-.portfolio-list:hover {
+.portfolio-item:hover {
   transform: translateY(0%);
 }
 
