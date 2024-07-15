@@ -304,6 +304,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-bottom: 8px;
 }
 
 .social-icon {
@@ -451,7 +452,7 @@ a {
 
 .footer-logo {
   display: inline-block;
-  margin-bottom: 16px;
+  margin-bottom: 17.5px;
 }
 
 .footer-text {
